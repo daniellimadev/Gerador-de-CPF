@@ -7,3 +7,7 @@ O objetivo do validador de CPF e gerador de CPF é auxiliar a estudantes, desenv
 O CPF (cadastro de pessoas físicas) é um registro mantido pela Receita Federal do Brasil no qual podem se inscrever pessoas de qualquer nacionalidade. O número é único para cada pessoa. O CPF é constituído de 11 dígitos dos quais os dois últimos são dídigos verificadores.
 
 ##  Imagens
+![CODE.png](https://github.com/daniellimadev/Gerador-de-CPF/blob/main/img/Code.png)
+<br/>
+<br/>
+![programa.png](https://github.com/daniellimadev/Gerador-de-CPF/blob/main/img/programa.png)
